@@ -51,5 +51,3 @@ Kabir Chaturvedi
 [LinkedIn](https://www.linkedin.com/in/kabir-chaturvedi)
 
 [GitHub](https://github.com/kabirchaturvedi)
-
-This will help you showcase your work more effectively and give potential reviewers a quick overview of your analysis.
