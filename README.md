@@ -25,13 +25,6 @@ The dataset consists of the complete works of William Shakespeare, including his
 ## 5. Results
 The model successfully generates text that closely mimics the style and structure of Shakespearean dialogue. The generated text demonstrates the model's ability to learn and reproduce complex linguistic patterns.
 
-### Visualizations
-![Model Training](path/to/model_training_plot.png)
-*Model Training Loss and Accuracy*
-
-![Generated Text Sample](path/to/generated_text_sample.png)
-*Sample of Generated Shakespearean Text*
-
 ## 6. Future Enhancements
 - **Model Improvement:** Experimenting with other neural network architectures and hyperparameter tuning.
 - **Text Diversity:** Enhancing the diversity and coherence of generated text by incorporating more varied datasets.
@@ -41,7 +34,7 @@ The model successfully generates text that closely mimics the style and structur
 This project demonstrates the application of NLP and deep learning techniques to generate text in the style of a renowned author. The AI Shakespeare project showcases the potential of deep learning models to replicate complex writing styles and provides a foundation for further exploration in text generation and literary emulation.
 
 ## 8. Files in Repository
-- **NLP_DL_prac_Shakespeare.ipynb:** Jupyter notebook with the complete analysis, model building, and text generation process.
+- **AI Shakespeare NLP Driven Text Generation Code.ipynb:** Jupyter notebook with the complete analysis, model building, and text generation process.
 - **shakespeare.txt:** Dataset containing the complete works of William Shakespeare.
 
 ## 9. Acknowledgments
